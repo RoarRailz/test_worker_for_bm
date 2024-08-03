@@ -13,7 +13,7 @@ gem "tzinfo-data", platforms: %i[ mswin mswin64 mingw x64_mingw jruby ]
 gem "bootsnap", require: false
 
 gem "redis", ">= 4.0.1"
-gem "sidekiq", "~> 7.3"
+gem "sidekiq", "~> 6.0"
 gem 'crono'
 gem "mailjet", "~> 1.7"
 
